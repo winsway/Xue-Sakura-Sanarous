@@ -11,13 +11,13 @@
 
 # 详情请参考：https://halo.run/develop/theme.html#theme-yaml
 
-id: ruibaby_quickstarter
-name: QuickStarter
-author:
-  name: Ryan Wang
-  website: https://ryanc.cc
-description: Quick starter theme for halo
+id: Winsway
+name: MyWeb
+author: Winsway
+  name: Winsway
+  website: https://halo.winswe.com
+  description: Xue & Sakura & Sanarous 糅合主题
 logo:
-website: https://github.com/halo-dev/halo-theme-quick-starter
-repo: https://github.com/halo-dev/halo-theme-quick-starter
+website: https://github.com/winsway/Xue-Sakura-Sanarous.git
+repo: https://github.com/winsway/Xue-Sakura-Sanarous.git
 version: 1.0
